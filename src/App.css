@@ -1,3 +1,8 @@
+.App {
+  margin: 0 auto;
+  max-width: 960px;
+}
+
 .App .container {
   background-color: #f8f8f8;
   border-radius: 4px;
