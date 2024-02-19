@@ -4,8 +4,9 @@
 }
 
 .App .container {
-  background-color: #f8f8f8;
+  background-color: #ffb5ba;
   border-radius: 4px;
+  padding-top: 20px;
 }
 
 .App header {
@@ -13,9 +14,11 @@
 }
 
 .App-logo {
+  border-radius: 4px;
   display: block;
   margin: 0 auto;
   max-width: 200px;
+  padding-bottom: 10px;
 }
 
 .App-footer {
