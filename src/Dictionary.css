@@ -26,6 +26,6 @@
 }
 
 form {
-  display: inline-block;
+  display: flex;
   width: 25%;
 }
