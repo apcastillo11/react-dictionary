@@ -17,15 +17,10 @@
   border-radius: 6px;
   color: #333;
   padding: 6px 10px;
-  width: 70%;
+  width: 100%;
 }
 
 .Dictionary .hint {
   font-size: 11px;
   margin-top: 5px;
-}
-
-form {
-  display: flex;
-  width: 25%;
 }
